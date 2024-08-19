@@ -16,3 +16,14 @@
 I'm a french student in computer engineering in fond of AI.
 
 ### 🛠️ Languages/Tools: 
+
+- Python
+  - Numpy
+  - Matplotlib
+  - Pandas
+  - Seaborn
+  - Scikit-learn
+  - PyTorch
+- C
+- Java
+- HTML/CSS/JS
