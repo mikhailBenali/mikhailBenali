@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me :
 
-I'm a french student in computer engineering in fond of AI.
+I'm a french student in computer engineering in fond of programming and AI.
 
 ### 🛠️ Languages/Tools: 
 
