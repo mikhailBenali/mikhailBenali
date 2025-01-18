@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/mikha%C3%AFl-benali/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mikhailBenali&style=for-the-badge">
 </div>
 
 ---
