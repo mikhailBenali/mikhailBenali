@@ -20,3 +20,4 @@ I'm a french student in computer engineering in fond of programming and AI.
 - C
 - Java
 - HTML/CSS/JS
+- Linux
